@@ -1,0 +1,13 @@
+seal swims in water water
+fox chases after chicken chases
+chicken flees fox flees
+chicken runs on land land
+dog eats bone dog
+cat bites fish cat
+fish swims swims
+fish swims fish
+cat bites fish cat
+cat eats fish cat
+whale eats krill krill
+whale eats krill whale
+cat eats fish eats

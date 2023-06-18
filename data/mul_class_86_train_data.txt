@@ -1,0 +1,86 @@
+fox runs after chicken fox
+mouse runs on land land
+seal eats fish fish
+cat eats fish fish
+dog runs after fox dog
+dog runs after fox fox
+dog runs on land land
+seal swims seal
+mouse squeaks mouse
+chicken eats grain chicken
+fox chases chicken chicken
+seal runs on land land
+cat chases mouse mouse
+cat runs on land land
+dog runs after cat dog
+cat runs after mouse mouse
+whale swims in water water
+mouse flees cat cat
+dog eats bone bone
+fox runs on land land
+fox chases after chicken fox
+seal swims in water seal
+fish swims in water water
+cat chases after mouse mouse
+fox runs after chicken chicken
+fox bites chicken chicken
+dog barks at cat dog
+fox chases fox
+mouse bites cheese cheese
+dog chases after cat dog
+dog barks dog
+dog chases after fox dog
+cat chases after mouse cat
+chicken clucks chicken
+mouse eats cheese cheese
+cat bites fish fish
+chicken flees fox fox
+fox eats chicken chicken
+cat meows cat
+dog chases fox fox
+seal runs seal
+cat flees dog dog
+seal eats fish eats
+mouse eats cheese eats
+dog bites fox bites
+whale eats krill eats
+dog eats bone eats
+fox eats chicken eats
+chicken eats grain eats
+cat flees dog flees
+mouse flees cat flees
+cat bites mouse bites
+fox flees dog flees
+chicken clucks clucks
+dog barks barks
+chicken runs on land runs
+whale swims swims
+mouse runs on land runs
+dog barks at cat barks
+seal runs on land runs
+cat runs on land runs
+whale swims in water swims
+dog barks at fox barks
+dog runs on land runs
+dog chases after fox chases
+fox chases chases
+seal runs runs
+seal swims in water swims
+cat chases after mouse chases
+fox runs on land runs
+dog chases after cat chases
+seal runs on land on
+seal swims in water in
+fish swims in water in
+fox runs on land on
+fox chases after chicken after
+fox runs after chicken after
+whale swims in water in
+dog runs after cat after
+cat runs after mouse after
+dog runs after fox after
+dog barks at fox at
+dog barks at cat at
+dog runs on land on
+chicken runs on land on
+dog chases after cat after

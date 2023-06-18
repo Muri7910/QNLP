@@ -1,0 +1,23 @@
+cat runs after mouse cat
+seal runs on land seal
+dog chases after fox fox
+dog barks at fox dog
+whale eats krill krill
+fox flees dog dog
+dog barks at fox fox
+seal swims in water water
+chicken runs on land land
+dog bites bone bone
+fox chases after chicken chicken
+cat eats fish eats
+dog bites cat bites
+chicken flees fox flees
+mouse squeaks squeaks
+cat meows meows
+fish swims swims
+fox chases after chicken chases
+fish swims in water swims
+cat chases after mouse after
+mouse runs on land on
+cat runs on land on
+dog chases after fox after
